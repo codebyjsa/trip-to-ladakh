@@ -14,10 +14,10 @@ Before starting our journey here's a glimpse of where we stayed on respective da
 | Day | Date   | Place           |
 |-----|--------|-----------------|
 | 1   | 4/5/24 | SRINAGAR        |
-| 2   | 4/6/24 | KHALTSI(LADAKH) |
-| 3   | 4/7/24 | LEH             |
-| 4   | 4/8/24 | PANGONG         |
-| 5   | 4/9/24 | KARGIL          |
+| 2   | 5/5/24 | KHALTSI(LADAKH) |
+| 3   | 6/5/24 | LEH             |
+| 4   | 7/5/24 | PANGONG         |
+| 5   | 8/5/24 | KARGIL          |
 
 ## Srinagar
 To have a visual experience of Srinagar [watch our first episode](https://www.youtube.com/watch?v=CYbnogXbRCk)
